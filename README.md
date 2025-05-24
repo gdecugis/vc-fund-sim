@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gdecugis/vc-fund-sim/blob/main/VC_Fund_Sim.ipynb)
+
 # VC Fund Simulation Notebook
 
 This repository contains a Google Colab notebook designed to simulate venture capital fund performance based on various assumptions and compare the outcomes. This tool allows users to experiment with different investment strategies, probabilities of success, and exit multiples to understand their potential impact on fund metrics like MOIC, TVPI, and IRR.
